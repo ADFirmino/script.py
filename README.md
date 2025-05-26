@@ -6,7 +6,8 @@
 2 - Digite o segundo valor numérico desejado
 3 - Digite o operador desejado, sendo eles (+,-,*,/)
 
-+ = Soma
-- = Subtração
-* = Multiplicação
-/ = Divisão
+Operadores
+(+) Soma
+(-) Subtração
+(*) Multiplicação
+(/) Divisão
